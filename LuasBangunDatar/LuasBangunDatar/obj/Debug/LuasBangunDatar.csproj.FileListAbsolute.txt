@@ -1,0 +1,7 @@
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.exe.config
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.exe
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\bin\Debug\LuasBangunDatar.pdb
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.csprojAssemblyReference.cache
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.csproj.CoreCompileInputs.cache
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.exe
+C:\Users\RINRIN NUR TASDIK\Documents\GitHub\LuasBangunDatar\LuasBangunDatar\LuasBangunDatar\obj\Debug\LuasBangunDatar.pdb
